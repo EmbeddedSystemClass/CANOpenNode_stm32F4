@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "canopen.h": "c"
+        "canopen.h": "c",
+        "co_driver.h": "c"
     }
 }
