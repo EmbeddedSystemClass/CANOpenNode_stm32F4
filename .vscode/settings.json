@@ -1,0 +1,5 @@
+{
+    "files.associations": {
+        "canopen.h": "c"
+    }
+}
